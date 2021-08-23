@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thenarwhalboutique.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thenarwhalboutique.myshopify.com/collections/all-clothing-1.atom"/>
+  <title>The Narwhal</title>
+  <updated>2021-08-02T09:26:19-05:00</updated>
+  <author>
+    <name>The Narwhal</name>
+  </author>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6692593270847</id>
+    <published>2021-08-02T09:26:19-05:00</published>
+    <updated>2021-08-02T09:26:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-teddy-coat-in-ultramarine"/>
+    <title>*pre-order* TEDDY COAT IN ULTRAMARINE</title>
+    <s:type>COAT</s:type>
+    <s:vendor>MAX MARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/coats-max-mara-womens-teddy-bear-icon-coat-ultramarine_2.jpg?v=1627914537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX MARA<br>
+        <strong>Type: </strong>COAT<br>
+        <strong>Price: </strong>
+            4490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Max Mara's 'Tedgirl' coat is such a luxurious yet versatile piece. It's been crafted in Italy from plush alpaca-blend with touches of wool and silk for added softness. The relaxed silhouette ensures it layers comfortably over chunky knits.</span></p>
+<ul>
+<li>Details: Button fastenings through double breasted front</li>
+<li>Material: 62% alpaca, 26% wool, 12% silk | buttons: 100% horn (cow) | lining: 100% viscose</li>
+<li>Fits true to size, take your normal size, model wears a size XS</li>
+<li>Designed for a relaxed fit and is sized for layering, those with a petite frame may wish to take the next size down</li>
+<li>Dry clean</li>
+<li>Made in Italy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>MAX MARA</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692593270847</id>
+      <title>XS</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692593270847</id>
+      <title>S</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692593270847</id>
+      <title>M</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6692588978239</id>
+    <published>2021-08-02T09:20:36-05:00</published>
+    <updated>2021-08-02T09:20:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-teddy-coat-in-brown"/>
+    <title>*pre-order* TEDDY COAT IN CHOCOLATE BROWN</title>
+    <s:type>COAT</s:type>
+    <s:vendor>MAX MARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/imagecomingsoon_aa518ad9-846e-4a8b-9445-c7c91c7d61c0.jpg?v=1627914108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX MARA<br>
+        <strong>Type: </strong>COAT<br>
+        <strong>Price: </strong>
+            4490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Max Mara's 'Tedgirl' coat is such a luxurious yet versatile piece. It's been crafted in Italy from plush alpaca-blend with touches of wool and silk for added softness. The relaxed silhouette ensures it layers comfortably over chunky knits.</span></p>
+<ul>
+<li>Details: Button fastenings through double breasted front</li>
+<li>Material: 62% alpaca, 26% wool, 12% silk | buttons: 100% horn (cow) | lining: 100% viscose</li>
+<li>Fits true to size, take your normal size, model wears a size XS</li>
+<li>Designed for a relaxed fit and is sized for layering, those with a petite frame may wish to take the next size down</li>
+<li>Dry clean</li>
+<li>Made in Italy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>MAX MARA</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692588978239</id>
+      <title>XS</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692588978239</id>
+      <title>S</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692588978239</id>
+      <title>M</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6692582588479</id>
+    <published>2021-08-02T09:11:39-05:00</published>
+    <updated>2021-08-02T09:11:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-teddy-coat-in-sand"/>
+    <title>*pre-order* TEDDY COAT IN BEIGE</title>
+    <s:type>COAT</s:type>
+    <s:vendor>MAX MARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1016151306002-b-tedgirl.jpg?v=1627913967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX MARA<br>
+        <strong>Type: </strong>COAT<br>
+        <strong>Price: </strong>
+            4490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Max Mara's 'Tedgirl' coat is such a luxurious yet versatile piece. It's been crafted in Italy from plush alpaca-blend with touches of wool and silk for added softness. The relaxed silhouette ensures it layers comfortably over chunky knits.</span></p>
+<ul>
+<li>Details: Button fastenings through double breasted front</li>
+<li>Material: 62% alpaca, 26% wool, 12% silk | buttons: 100% horn (cow) | lining: 100% viscose</li>
+<li>Fits true to size, take your normal size, model wears a size XS</li>
+<li>Designed for a relaxed fit and is sized for layering, those with a petite frame may wish to take the next size down</li>
+<li>Dry clean</li>
+<li>Made in Italy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>MAX MARA</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692582588479</id>
+      <title>XS</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692582588479</id>
+      <title>S</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692582588479</id>
+      <title>M</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6692582326335</id>
+    <published>2021-08-02T09:11:01-05:00</published>
+    <updated>2021-08-02T09:11:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-teddy-coat-in-grey"/>
+    <title>*pre-order* TEDDY COAT IN GREY</title>
+    <s:type>COAT</s:type>
+    <s:vendor>MAX MARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/max-mara-Gray-Teddy-Bear-Icon-Wool-Alpaca-And-Silk-blend-Coat.jpg?v=1627913931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX MARA<br>
+        <strong>Type: </strong>COAT<br>
+        <strong>Price: </strong>
+            4490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Max Mara's 'Tedgirl' coat is such a luxurious yet versatile piece. It's been crafted in Italy from plush alpaca-blend with touches of wool and silk for added softness. The relaxed silhouette ensures it layers comfortably over chunky knits.</span></p>
+<ul>
+<li>Details: Button fastenings through double breasted front</li>
+<li>Material: 62% alpaca, 26% wool, 12% silk | buttons: 100% horn (cow) | lining: 100% viscose</li>
+<li>Fits true to size, take your normal size, model wears a size XS</li>
+<li>Designed for a relaxed fit and is sized for layering, those with a petite frame may wish to take the next size down</li>
+<li>Dry clean</li>
+<li>Made in Italy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>MAX MARA</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692582326335</id>
+      <title>XS</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692582326335</id>
+      <title>S</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692582326335</id>
+      <title>M</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6692579278911</id>
+    <published>2021-08-02T09:06:51-05:00</published>
+    <updated>2021-08-02T09:06:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-teddy-coat-in-turtle-dove"/>
+    <title>*pre-order* TEDDY COAT IN TURTLE DOVE</title>
+    <s:type>COAT</s:type>
+    <s:vendor>MAX MARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/TEDDYCOATTURTLEDOVE.jpg?v=1627913283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MAX MARA<br>
+        <strong>Type: </strong>COAT<br>
+        <strong>Price: </strong>
+            4490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Max Mara's 'Tedgirl' coat is such a luxurious yet versatile piece. It's been crafted in Italy from plush alpaca-blend with touches of wool and silk for added softness. The relaxed silhouette ensures it layers comfortably over chunky knits.</span></p>
+<ul>
+<li>Details: Button fastenings through double breasted front</li>
+<li>Material: 62% alpaca, 26% wool, 12% silk | buttons: 100% horn (cow) | lining: 100% viscose</li>
+<li>Fits true to size, take your normal size, model wears a size XS</li>
+<li>Designed for a relaxed fit and is sized for layering, those with a petite frame may wish to take the next size down</li>
+<li>Dry clean</li>
+<li>Made in Italy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>MAX MARA</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692579278911</id>
+      <title>XS</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692579278911</id>
+      <title>S</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6692579278911</id>
+      <title>M</title>
+      <s:price currency="CAD">4490.00</s:price>
+      <s:sku>MAX MARA-FW21-TEDDY COAT-3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6690812461119</id>
+    <published>2021-07-31T09:14:01-05:00</published>
+    <updated>2021-07-31T09:14:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/stripe-italy-smoking-jacket-in-blue-jean-true-blue-peacock"/>
+    <title>STRIPE ITALY SMOKING JACKET IN BLUE JEAN/TRUE BLUE/PEACOCK</title>
+    <s:type>SWEATER</s:type>
+    <s:vendor>THE ELDER STATESMAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/37587b9b170948fe84fbfc40000155d8.jpg?v=1627740842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE ELDER STATESMAN<br>
+        <strong>Type: </strong>SWEATER<br>
+        <strong>Price: </strong>
+            2495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Elder Statesman's best-selling oversized shawl-collar smoking jacket in gorgeous blue hues.<br></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Details: Heavy weight knit, shawl collar, plaited italian cashmere, open fit<br>
+</li>
+<li data-mce-fragment="1">Material: 100% cashmere</li>
+<li data-mce-fragment="1">Fits true to size, model wears a size Small</li>
+<li data-mce-fragment="1">Made in Los Angeles, California</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>THE ELDER STATESMAN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690812461119</id>
+      <title>XS</title>
+      <s:price currency="CAD">2495.00</s:price>
+      <s:sku>TES-PF21-ITALY SMIKING JACKET-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690812461119</id>
+      <title>S</title>
+      <s:price currency="CAD">2495.00</s:price>
+      <s:sku>TES-PF21-ITALY SMIKING JACKET-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690812461119</id>
+      <title>M</title>
+      <s:price currency="CAD">2495.00</s:price>
+      <s:sku>TES-PF21-ITALY SMIKING JACKET-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690812461119</id>
+      <title>L</title>
+      <s:price currency="CAD">2495.00</s:price>
+      <s:sku>TES-PF21-ITALY SMIKING JACKET-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6690803187775</id>
+    <published>2021-07-31T09:02:17-05:00</published>
+    <updated>2021-07-31T09:02:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/have-a-nice-day-smiley-ganni-graphic-isoli-pullover"/>
+    <title>HAVE A NICE DAY SMILEY GANNI GRAPHIC ISOLI PULLOVER</title>
+    <s:type>SWEATSHIRT</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/T2793-921-1-1.jpg?v=1627740138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>SWEATSHIRT<br>
+        <strong>Price: </strong>
+            215.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Oversized pullover in recycled isoli, featuring boxy raglan elbow-length sleeves and a signature GANNI logo &amp; Have a Nice Day Smiley graphic. Style with your favourite GANNI jeans or coordinate with isoli shorts. </span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">100% RECYCLED BLEND </span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">This piece is made of 50% recycled cotton and 50% recycled polyester. Using recycled fibers decreases the demand for virgin fibers and significantly lowers the environmental footprint of a garment. </span><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Super boxy oversized silhouette cropped to normal hip-length</li>
+<li data-mce-fragment="1">Raglan sleeves</li>
+<li data-mce-fragment="1">Pronounced round neck hem</li>
+<li data-mce-fragment="1">High-low hemline slightly longer in the back with side slits</li>
+<li data-mce-fragment="1">Classic heavyweight, structured, sweatshirt-fabric with stretch</li>
+<li data-mce-fragment="1">The model is 175 cm and wears a size EU 36</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>GANNI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690803187775</id>
+      <title>XXS/XS</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>GA-FW21-ISOLI SWEATSHIRT-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690803187775</id>
+      <title>S/M</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>GA-FW21-ISOLI SWEATSHIRT-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690803187775</id>
+      <title>L/XL</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>GA-FW21-ISOLI SWEATSHIRT-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6690798698559</id>
+    <published>2021-07-31T08:56:35-05:00</published>
+    <updated>2021-07-31T08:56:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/crystal-embelished-ribbed-cardigan-in-egret"/>
+    <title>CRYSTAL EMBELISHED RIBBED CARDIGAN IN EGRET</title>
+    <s:type>SWEATER</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/w2000-2_18f133d3-320d-4708-bae5-6c742cd8e8e9.jpg?v=1627739829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>SWEATER<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">GANNI's cardigan is dotted with the brand's signature crystal-embellished buttons - they make this classic style feel instantly more special. It's spun from recycled wool-blend and has a tightly ribbed finish. It looks equally cool worn open over dresses or half-tucked into jeans.</span></p>
+<ul>
+<li>Details: Ecru recycled wool-blend, button fastenings through front, mid-weight knit, designed for a loose fit</li>
+<li>Material: 60% recycled wool, 18% polyester, 10% wool, 7% recycled polyester, 5% other fibers</li>
+<li>Item fits true to size, model wears a size S</li>
+<li>Dry clean</li>
+<li>Made in Italy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>GANNI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690798698559</id>
+      <title>XS</title>
+      <s:price currency="CAD">450.00</s:price>
+      <s:sku>GA-FW21-CARDIGAN-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690798698559</id>
+      <title>S</title>
+      <s:price currency="CAD">450.00</s:price>
+      <s:sku>GA-FW21-CARDIGAN-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690798698559</id>
+      <title>M</title>
+      <s:price currency="CAD">450.00</s:price>
+      <s:sku>GA-FW21-CARDIGAN-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690798698559</id>
+      <title>L</title>
+      <s:price currency="CAD">450.00</s:price>
+      <s:sku>GA-FW21-CARDIGAN-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6690793881663</id>
+    <published>2021-07-31T08:51:12-05:00</published>
+    <updated>2021-07-31T08:51:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/ruffled-organic-denim-shirt"/>
+    <title>RUFFLED ORGANIC DENIM SHIRT</title>
+    <s:type>TOP</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/w2000-7.jpg?v=1627739473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>TOP<br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">The oversized ruffled collar of GANNI's shirt is a detail seen throughout the brand's Pre-Fall '21 collection - it adds a playful touch to the otherwise simple design. It's cut from faded light-blue denim composed of GOTS-certified organic cotton and REFIBRA™ blend and has a comfortably loose fit. Wear yours tucked into slick leather pants.</span></p>
+<ul>
+<li>Details: Snap button front, v-neckline, straight fit</li>
+<li>Material: 100% cotton</li>
+<li>Item fits true to size, model wears a size 36</li>
+<li>Machine wash cold, lay flat to dry</li>
+<li>Impored</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>GANNI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690793881663</id>
+      <title>34</title>
+      <s:price currency="CAD">395.00</s:price>
+      <s:sku>GA-FW21-DENIM SHIRT-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690793881663</id>
+      <title>36</title>
+      <s:price currency="CAD">395.00</s:price>
+      <s:sku>GA-FW21-DENIM SHIRT-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690793881663</id>
+      <title>38</title>
+      <s:price currency="CAD">395.00</s:price>
+      <s:sku>GA-FW21-DENIM SHIRT-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6690793881663</id>
+      <title>40</title>
+      <s:price currency="CAD">395.00</s:price>
+      <s:sku>GA-FW21-DENIM SHIRT-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689221935167</id>
+    <published>2021-07-29T21:13:09-05:00</published>
+    <updated>2021-07-29T21:13:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/lizette-sweater-in-tornado"/>
+    <title>LIZETTE SWEATER IN TORNADO</title>
+    <s:type>SWEATER</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/img_5731.jpg?v=1627611155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>SWEATER<br>
+        <strong>Price: </strong>
+            1025.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lizette cashmere sweater by Sablyn.</p>
+<ul>
+<li>Details: Ribbed collar at neck, slight v-neckline, front patch pocket, easy fit</li>
+<li>Material: 100% cashmere</li>
+<li>Item fits true to size, model wears a size S</li>
+<li>Dry clean</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689221935167</id>
+      <title>XS</title>
+      <s:price currency="CAD">1025.00</s:price>
+      <s:sku>SABLYN-FW21-LIZETTE SWEATERR-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689221935167</id>
+      <title>S</title>
+      <s:price currency="CAD">1025.00</s:price>
+      <s:sku>SABLYN-FW21-LIZETTE SWEATERR-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689221935167</id>
+      <title>M</title>
+      <s:price currency="CAD">1025.00</s:price>
+      <s:sku>SABLYN-FW21-LIZETTE SWEATERR-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689221935167</id>
+      <title>L</title>
+      <s:price currency="CAD">1025.00</s:price>
+      <s:sku>SABLYN-FW21-LIZETTE SWEATERR-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689218723903</id>
+    <published>2021-07-29T21:06:49-05:00</published>
+    <updated>2021-07-29T21:06:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/corina-cashmere-tee-in-tornado"/>
+    <title>CORINA CASHMERE TEE IN TORNADO</title>
+    <s:type>DRESS</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CORINA2.jpg?v=1627610832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>DRESS<br>
+        <strong>Price: </strong>
+            620.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The cutest cashmere tee by Sablyn.</p>
+<ul>
+<li>Details: Crew neck, short sleeves, slightly cropped in the body, slim fit</li>
+<li>Material: 100% cashmere</li>
+<li>Item fits true to size</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689218723903</id>
+      <title>XS</title>
+      <s:price currency="CAD">620.00</s:price>
+      <s:sku>sablyn-fw21-carinna tee</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689218723903</id>
+      <title>S</title>
+      <s:price currency="CAD">620.00</s:price>
+      <s:sku>sablyn-fw21-carinna tee</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689218723903</id>
+      <title>M</title>
+      <s:price currency="CAD">620.00</s:price>
+      <s:sku>sablyn-fw21-carinna tee</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689218723903</id>
+      <title>L</title>
+      <s:price currency="CAD">620.00</s:price>
+      <s:sku>sablyn-fw21-carinna tee</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689218003007</id>
+    <published>2021-07-29T21:06:07-05:00</published>
+    <updated>2021-07-29T21:06:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/anabella-cashmere-sweater-dress-in-gardenia"/>
+    <title>ANABELLA CASHMERE SWEATER DRESS IN GARDENIA</title>
+    <s:type>DRESS</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/imagecomingsoon.jpg?v=1627610782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>DRESS<br>
+        <strong>Price: </strong>
+            1295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cashmere turtleneck dress by Sablyn.</p>
+<ul>
+<li>Details: Turtleneck style, bracelet length sleeves, light-mid weight cashmere, relaxed easy fit,</li>
+<li>Material: 100% cashmere</li>
+<li>Item fits true to size</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689218003007</id>
+      <title>XS</title>
+      <s:price currency="CAD">1295.00</s:price>
+      <s:sku>SABLYN-FW21-ANABELLA DRESS-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689218003007</id>
+      <title>S</title>
+      <s:price currency="CAD">1295.00</s:price>
+      <s:sku>SABLYN-FW21-ANABELLA DRESS-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689218003007</id>
+      <title>M</title>
+      <s:price currency="CAD">1295.00</s:price>
+      <s:sku>SABLYN-FW21-ANABELLA DRESS-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689218003007</id>
+      <title>L</title>
+      <s:price currency="CAD">1295.00</s:price>
+      <s:sku>SABLYN-FW21-ANABELLA DRESS-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689217577023</id>
+    <published>2021-07-29T21:05:05-05:00</published>
+    <updated>2021-07-29T21:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/anabella-cashmere-sweater-dress-in-tornado"/>
+    <title>ANABELLA CASHMERE SWEATER DRESS IN TORNADO</title>
+    <s:type>DRESS</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ANABELLA2-1.jpg?v=1627610705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>DRESS<br>
+        <strong>Price: </strong>
+            1295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cashmere turtleneck dress by Sablyn.</p>
+<ul>
+<li>Details: Turtleneck style, bracelet length sleeves, light-mid weight cashmere, relaxed easy fit,</li>
+<li>Material: 100% cashmere</li>
+<li>Item fits true to size</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689217577023</id>
+      <title>XS</title>
+      <s:price currency="CAD">1295.00</s:price>
+      <s:sku>SABLYN-FW21-ANABELLA DRESS-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689217577023</id>
+      <title>S</title>
+      <s:price currency="CAD">1295.00</s:price>
+      <s:sku>SABLYN-FW21-ANABELLA DRESS-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689217577023</id>
+      <title>M</title>
+      <s:price currency="CAD">1295.00</s:price>
+      <s:sku>SABLYN-FW21-ANABELLA DRESS-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689217577023</id>
+      <title>L</title>
+      <s:price currency="CAD">1295.00</s:price>
+      <s:sku>SABLYN-FW21-ANABELLA DRESS-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689215610943</id>
+    <published>2021-07-29T21:01:53-05:00</published>
+    <updated>2021-07-29T21:01:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/scartlett-cashmere-turtleneck-sweater-in-gardenia"/>
+    <title>SCARTLETT CASHMERE TURTLENECK SWEATER IN GARDENIA</title>
+    <s:type>SWEATER</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/img_5359.jpg?v=1627610513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>SWEATER<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sablyn's Scarlet cashmere turtleneck is one of the labels most luxurious sweaters. Perfectly slouchy, it pairs perfectly with leather skinnies of back to denim.</p>
+<ul>
+<li>Details: Relaxed fit, slightly long in the arms, easy &amp; cool fit</li>
+<li>Material: 100% cashmere</li>
+<li>Item fits true to size, model wears a size Small</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689215610943</id>
+      <title>XS</title>
+      <s:price currency="CAD">1525.00</s:price>
+      <s:sku>SABLYN-FW21-SCARLETT CASHMERE SWEATER-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689215610943</id>
+      <title>S</title>
+      <s:price currency="CAD">1525.00</s:price>
+      <s:sku>SABLYN-FW21-SCARLETT CASHMERE SWEATER-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689215610943</id>
+      <title>M</title>
+      <s:price currency="CAD">1525.00</s:price>
+      <s:sku>SABLYN-FW21-SCARLETT CASHMERE SWEATER-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689211351103</id>
+    <published>2021-07-29T20:55:15-05:00</published>
+    <updated>2021-07-29T20:55:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/mason-sweatpant-in-tornado"/>
+    <title>MASON SWEATPANT IN TORNADO</title>
+    <s:type>PANT</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/img_5793_6a05558c-1a84-401f-922e-02fc4d29b77d.jpg?v=1627610130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>PANT<br>
+        <strong>Price: </strong>
+            465.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">The Mason Sweatpants are made out of the softest fleece terry you can find and will bring you all the comfort and warmth needed. Wear them with Sablyn Frankie Sweatshirt</span><span data-mce-fragment="1"> for a perfect relaxed look. </span><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Details: Embroidered logo at front, side pockets, elastic waistband and cuffs, easy fit</li>
+<li data-mce-fragment="1">Material: 100% cotton</li>
+<li data-mce-fragment="1">Item fits true to size, model wears a size S</li>
+<li data-mce-fragment="1">Machine wash cold, lay flat to dry</li>
+<li data-mce-fragment="1">Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689211351103</id>
+      <title>XS</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689211351103</id>
+      <title>S</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689211351103</id>
+      <title>M</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689211351103</id>
+      <title>L</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689210400831</id>
+    <published>2021-07-29T20:54:57-05:00</published>
+    <updated>2021-07-29T20:54:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/mason-sweatpant-in-gardenia"/>
+    <title>MASON SWEATPANT IN GARDENIA</title>
+    <s:type>PANT</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/img_5241_295272fe-78b3-4122-a737-da8defdd7029.jpg?v=1627610053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>PANT<br>
+        <strong>Price: </strong>
+            465.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">The Mason Sweatpants are made out of the softest fleece terry you can find and will bring you all the comfort and warmth needed. Wear them with Sablyn Frankie Sweatshirt</span><span data-mce-fragment="1"> for a perfect relaxed look. </span><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Details: Embroidered logo at front, side pockets, elastic waistband and cuffs, easy fit</li>
+<li data-mce-fragment="1">Material: 100% cotton</li>
+<li data-mce-fragment="1">Item fits true to size, model wears a size S</li>
+<li data-mce-fragment="1">Machine wash cold, lay flat to dry</li>
+<li data-mce-fragment="1">Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689210400831</id>
+      <title>XS</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689210400831</id>
+      <title>S</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689210400831</id>
+      <title>M</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689210400831</id>
+      <title>L</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689209483327</id>
+    <published>2021-07-29T20:52:33-05:00</published>
+    <updated>2021-07-29T20:52:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/mason-sweatpant-in-black"/>
+    <title>MASON SWEATPANT IN BLACK</title>
+    <s:type>PANT</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/img_5507_09dc3406-bf7e-49f5-bfba-96786eddf747.jpg?v=1627609952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>PANT<br>
+        <strong>Price: </strong>
+            465.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">The Mason Sweatpants are made out of the softest fleece terry you can find and will bring you all the comfort and warmth needed. Wear them with Sablyn Frankie Sweatshirt</span><span data-mce-fragment="1"> for a perfect relaxed look. </span><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Details: Embroidered logo at front, side pockets, elastic waistband and cuffs, easy fit</li>
+<li data-mce-fragment="1">Material: 100% cotton</li>
+<li data-mce-fragment="1">Item fits true to size, model wears a size S</li>
+<li data-mce-fragment="1">Machine wash cold, lay flat to dry</li>
+<li data-mce-fragment="1">Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689209483327</id>
+      <title>XS</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-MASON SWEATPANT-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689209483327</id>
+      <title>S</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-MASON SWEATPANT-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689209483327</id>
+      <title>M</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-MASON SWEATPANT-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689209483327</id>
+      <title>L</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-MASON SWEATPANT-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689177534527</id>
+    <published>2021-07-29T19:58:19-05:00</published>
+    <updated>2021-07-29T19:58:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/frankie-sweatshirt-in-black"/>
+    <title>FRANKIE SWEATSHIRT IN BLACK</title>
+    <s:type>SWEATER</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/img_5507.jpg?v=1627606726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>SWEATER<br>
+        <strong>Price: </strong>
+            465.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div data-mce-fragment="1">The Frankie Sweatshirt are made out of the softest fleece you can find. Its relaxed fit will bring you all the comfort and warmth needed. Wear it with the matching pant or distressed denim for an easy, effortless look.</div>
+<div data-mce-fragment="1">
+<div style="padding-left: 30px;" data-mce-style="padding-left: 30px;" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Details: Crewneck Collar, v-stitch, embroidered logo at front, ribbed sleeves and hem</li>
+<li data-mce-fragment="1">Material: 100% cotton</li>
+<li data-mce-fragment="1">Item fits true to size, model wears a size Small</li>
+<li data-mce-fragment="1">Machine Washable</li>
+<li data-mce-fragment="1">Made in Los Angeles, USA</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689177534527</id>
+      <title>XS</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689177534527</id>
+      <title>S</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689177534527</id>
+      <title>M</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689177534527</id>
+      <title>L</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689176649791</id>
+    <published>2021-07-29T19:57:05-05:00</published>
+    <updated>2021-07-29T19:57:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/frankie-sweatshirt-in-gardenia"/>
+    <title>FRANKIE SWEATSHIRT IN GARDENIA</title>
+    <s:type>SWEATER</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/img_5241_9d189986-e6a1-4f9a-8f73-88f260fab542.jpg?v=1627606665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>SWEATER<br>
+        <strong>Price: </strong>
+            465.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div data-mce-fragment="1">The Frankie Sweatshirt are made out of the softest fleece you can find. Its relaxed fit will bring you all the comfort and warmth needed. Wear it with the matching pant or distressed denim for an easy, effortless look.</div>
+<div data-mce-fragment="1">
+<div style="padding-left: 30px;" data-mce-style="padding-left: 30px;" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Details: Crewneck Collar, v-stitch, embroidered logo at front, ribbed sleeves and hem</li>
+<li data-mce-fragment="1">Material: 100% cotton</li>
+<li data-mce-fragment="1">Item fits true to size, model wears a size Small</li>
+<li data-mce-fragment="1">Machine Washable</li>
+<li data-mce-fragment="1">Made in Los Angeles, USA</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689176649791</id>
+      <title>XS</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689176649791</id>
+      <title>S</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689176649791</id>
+      <title>M</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689176649791</id>
+      <title>L</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6689176354879</id>
+    <published>2021-07-29T19:56:24-05:00</published>
+    <updated>2021-07-29T19:56:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/frankie-sweatshirt-in-tornado"/>
+    <title>FRANKIE SWEATSHIRT IN TORNADO</title>
+    <s:type>SWEATER</s:type>
+    <s:vendor>SABLYN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/img_5793.jpg?v=1627606585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SABLYN<br>
+        <strong>Type: </strong>SWEATER<br>
+        <strong>Price: </strong>
+            465.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div data-mce-fragment="1">The Frankie Sweatshirt are made out of the softest fleece you can find. Its relaxed fit will bring you all the comfort and warmth needed. Wear it with the matching pant or distressed denim for an easy, effortless look.</div>
+<div data-mce-fragment="1">
+<div style="padding-left: 30px;" data-mce-style="padding-left: 30px;" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Details: Crewneck Collar, v-stitch, embroidered logo at front, ribbed sleeves and hem</li>
+<li data-mce-fragment="1">Material: 100% cotton</li>
+<li data-mce-fragment="1">Item fits true to size, model wears a size Small</li>
+<li data-mce-fragment="1">Machine Washable</li>
+<li data-mce-fragment="1">Made in Los Angeles, USA</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>SABLYN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689176354879</id>
+      <title>XS</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689176354879</id>
+      <title>S</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689176354879</id>
+      <title>M</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6689176354879</id>
+      <title>L</title>
+      <s:price currency="CAD">465.00</s:price>
+      <s:sku>SABLYN-FW21-FRANKIE SWEATSHIRT-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684848783423</id>
+    <published>2021-07-25T19:57:24-05:00</published>
+    <updated>2021-07-25T19:57:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-boy-tee-in-rose-jersey"/>
+    <title>BOY TEE IN ROSE JERSEY</title>
+    <s:type>TOP</s:type>
+    <s:vendor>RAQUEL ALLEGRA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/RALineSheetsF218323.jpg?v=1627261045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RAQUEL ALLEGRA<br>
+        <strong>Type: </strong>TOP<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">Classic jersey boy tee in a hand dyed rose jersey.</p>
+<p data-mce-fragment="1">A riff on wearing proportions that would be suitable for a smaller straighter body type. Slimmer through the bust and kicks out at the shoulder. It encourages a straighter more boyish look in the body. It’s casual, and comfortable. A staple with any bottom or under any layer.</p>
+<p data-mce-fragment="1">Material: 100% Cotton / Hand Wash</p>
+<p data-mce-fragment="1">Marike is 5'10" and wears a size 0</p>
+<p data-mce-fragment="1">Made in LA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>RAQUEL ALLEGRA</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684848783423</id>
+      <title>0</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku>RA-FW21-BOY TEE-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684848783423</id>
+      <title>1</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku>RA-FW21-BOY TEE-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684848783423</id>
+      <title>2</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku>RA-FW21-BOY TEE-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684848783423</id>
+      <title>3</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku>RA-FW21-BOY TEE-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684847833151</id>
+    <published>2021-07-25T19:55:38-05:00</published>
+    <updated>2021-07-25T19:55:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-vintage-washed-dainty-collar-blouse-in-pink-jungle-print"/>
+    <title>VINTAGE WASHED DAINTY COLLAR BLOUSE IN PINK JUNGLE PRINT</title>
+    <s:type>TOP</s:type>
+    <s:vendor>RAQUEL ALLEGRA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/RALineSheetsF217621.jpg?v=1627260916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RAQUEL ALLEGRA<br>
+        <strong>Type: </strong>TOP<br>
+        <strong>Price: </strong>
+            675.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The washed silk and airy button front blouse in blue jungle print, has shirring at front and back yokes, shirttail hem, and a petite "dainty" collar.</p>
+<p data-mce-fragment="1">Material: 100% Silk / Hand Wash</p>
+<p data-mce-fragment="1">Maya is 5'9" and wears a size 0</p>
+<p data-mce-fragment="1">Made in LA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>RAQUEL ALLEGRA</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684847833151</id>
+      <title>0</title>
+      <s:price currency="CAD">675.00</s:price>
+      <s:sku>RA-FW21-DAINT COLLAR BLOUSE-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684847833151</id>
+      <title>1</title>
+      <s:price currency="CAD">675.00</s:price>
+      <s:sku>RA-FW21-DAINT COLLAR BLOUSE-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684847833151</id>
+      <title>2</title>
+      <s:price currency="CAD">675.00</s:price>
+      <s:sku>RA-FW21-DAINT COLLAR BLOUSE-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684845408319</id>
+    <published>2021-07-25T19:49:34-05:00</published>
+    <updated>2021-07-25T19:49:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/mens-tee-in-creme"/>
+    <title>MENS TEE IN CREME</title>
+    <s:type>TOP</s:type>
+    <s:vendor>RAQUEL ALLEGRA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/Y214-1866SP-CRE_1293.jpg?v=1627260675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RAQUEL ALLEGRA<br>
+        <strong>Type: </strong>TOP<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Classic jersey cotton mens tee in cream with our "love letter"</p>
+<p data-mce-fragment="1">"The world always needs a hug - a message from California but ultimately a message from me." - RA</p>
+<p data-mce-fragment="1">Material: 100% Cotton / Hand Wash</p>
+<p data-mce-fragment="1">Marike is 5'10" and wears a size 0</p>
+<p data-mce-fragment="1">Made in LA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>RAQUEL ALLEGRA</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684845408319</id>
+      <title>0</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>RA-FW21-MENS TEE-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684845408319</id>
+      <title>1</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>RA-FW21-MENS TEE-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684845408319</id>
+      <title>2</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>RA-FW21-MENS TEE-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684678520895</id>
+    <published>2021-07-25T14:33:22-05:00</published>
+    <updated>2021-07-25T14:33:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-jersey-baby-tee-in-nebula-tie-dye"/>
+    <title>JERSEY BABY TEE IN NEBULA TIE DYE</title>
+    <s:type>TOP</s:type>
+    <s:vendor>RAQUEL ALLEGRA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/Y214-1865TD-NBLTD_2733.jpg?v=1627241618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RAQUEL ALLEGRA<br>
+        <strong>Type: </strong>TOP<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect gift for your baby, your sisters baby, your brothers baby, your friends baby, any baby for that matter! The pastel spiral tie dye baby tee is hand dyed in Downtown Los Angeles. The gift of love!</p>
+<p>Material: 100% Cotton / Hand Wash</p>
+<p>Size 0 (6-12 Months)<br>Length 22"<br>Chest 11.5"</p>
+<p>Size 1 (12-18 Months)<br>Length 24"<br>Chest 13.5"</p>
+<p>Size 2 (2T)<br>Length 25"<br>Chest 15.5"</p>
+<p>Size 3 (3T)<br>Length 32"<br>Chest 17"</p>
+<p>Made in LA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>KIDS</s:tag>
+    <s:tag>RAQUEL ALLEGRA</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684678520895</id>
+      <title>0</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684678520895</id>
+      <title>1</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684678520895</id>
+      <title>2</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684678520895</id>
+      <title>3</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684678389823</id>
+    <published>2021-07-25T14:32:24-05:00</published>
+    <updated>2021-07-25T14:32:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-jersey-baby-tee-in-shadow-spiral-tie-dye"/>
+    <title>JERSEY BABY TEE IN SHADOW SPIRAL TIE DYE</title>
+    <s:type>TOP</s:type>
+    <s:vendor>RAQUEL ALLEGRA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/Y214-1865TD-SHSPTD_2326.jpg?v=1627241561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RAQUEL ALLEGRA<br>
+        <strong>Type: </strong>TOP<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect gift for your baby, your sisters baby, your brothers baby, your friends baby, any baby for that matter! The pastel spiral tie dye baby tee is hand dyed in Downtown Los Angeles. The gift of love!</p>
+<p>Material: 100% Cotton / Hand Wash</p>
+<p>Size 0 (6-12 Months)<br>Length 22"<br>Chest 11.5"</p>
+<p>Size 1 (12-18 Months)<br>Length 24"<br>Chest 13.5"</p>
+<p>Size 2 (2T)<br>Length 25"<br>Chest 15.5"</p>
+<p>Size 3 (3T)<br>Length 32"<br>Chest 17"</p>
+<p>Made in LA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>KIDS</s:tag>
+    <s:tag>RAQUEL ALLEGRA</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684678389823</id>
+      <title>0</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684678389823</id>
+      <title>1</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684678389823</id>
+      <title>2</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684678389823</id>
+      <title>3</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>
